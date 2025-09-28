@@ -24,5 +24,7 @@ Passionate about turning raw data into meaningful insights and interactive dashb
 - 🔗 [View project](link-to-repo-or-file)
 
 ## 📬 Contact
-- **LinkedIn:** [Your LinkedIn URL]  
+- **LinkedIn:** [www.linkedin.com/in/sarah-abdelhakem
+
+]  
 - **GitHub:** [Your GitHub profile link]  
